@@ -1,0 +1,19 @@
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\bin\Debug\net6.0-windows\PostgreSQL Connection.exe
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\bin\Debug\net6.0-windows\PostgreSQL Connection.deps.json
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\bin\Debug\net6.0-windows\PostgreSQL Connection.runtimeconfig.json
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\bin\Debug\net6.0-windows\PostgreSQL Connection.dll
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\bin\Debug\net6.0-windows\PostgreSQL Connection.pdb
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\obj\Debug\net6.0-windows\PostgreSQL Connection.csproj.AssemblyReference.cache
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\obj\Debug\net6.0-windows\PostgreSQL_Connection.Form1.resources
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\obj\Debug\net6.0-windows\PostgreSQL Connection.csproj.GenerateResource.cache
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\obj\Debug\net6.0-windows\PostgreSQL Connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\obj\Debug\net6.0-windows\PostgreSQL Connection.AssemblyInfoInputs.cache
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\obj\Debug\net6.0-windows\PostgreSQL Connection.AssemblyInfo.cs
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\obj\Debug\net6.0-windows\PostgreSQL Connection.csproj.CoreCompileInputs.cache
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\obj\Debug\net6.0-windows\PostgreSQL Connection.csproj.CopyComplete
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\obj\Debug\net6.0-windows\PostgreSQL Connection.dll
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\obj\Debug\net6.0-windows\refint\PostgreSQL Connection.dll
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\obj\Debug\net6.0-windows\PostgreSQL Connection.pdb
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\obj\Debug\net6.0-windows\PostgreSQL Connection.genruntimeconfig.cache
+C:\Users\Parry\Projects\My Projects\Desktop app\PostgreSQL Connection\PostgreSQL Connection\obj\Debug\net6.0-windows\ref\PostgreSQL Connection.dll

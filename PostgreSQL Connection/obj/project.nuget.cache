@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dgYLuqgmEg5hGRcelUsuAUU9mC/yz5BRPApffZ0q9bWXR4JdVtTXjf6Q6gvK+As4kSG33qH3pyRQ2/X8LWMssg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Parry\\Projects\\My Projects\\Desktop app\\PostgreSQL Connection\\PostgreSQL Connection\\PostgreSQL Connection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Parry\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\Parry\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
